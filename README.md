@@ -46,8 +46,8 @@ soh_bot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/soh_bot.git
-cd soh_bot
+git clone https://github.com/your-username/Silent-Message-Interceptor.git
+cd Silent-Message-Interceptor
 ```
 
 ### 2. Configure credentials
