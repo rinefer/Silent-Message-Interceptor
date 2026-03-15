@@ -1,0 +1,34 @@
+# Session file — contains your Telegram authorization, never commit this
+*.session
+*.session-journal
+
+# Database — contains personal deleted message data
+*.db
+
+# Saved media and logs — local data, not part of the codebase
+saved_media/
+deleted_messages_logs/
+
+# CSV files with parsed user data
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
